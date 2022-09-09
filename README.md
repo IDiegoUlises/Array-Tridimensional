@@ -29,7 +29,7 @@ void loop()
 
   int i, j, k; //Variables a recorrer
 
-  //Para recorrer un areglo tridimensional
+  //Para recorrer un arreglo tridimensional
   //Se utiliza tres bucles for
   for (i = 0; i < caras; i++)
   {
