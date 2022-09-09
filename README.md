@@ -35,7 +35,7 @@ void loop()
   {
     for (j = 0; j < filas; j++)
     {
-      for (k = 0; k < 3; k++)
+      for (k = 0; k < columnas; k++)
       {
         Serial.println(matriz[i][j][k]); //Se imprime el arreglo
       }
