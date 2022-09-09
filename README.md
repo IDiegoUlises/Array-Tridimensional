@@ -15,8 +15,7 @@ int matriz = arreglo[caras][filas][columnas];
 ```c++
 //Se crea el arreglo y se define
 int matriz[2][2][3] = { {{1, 2, 3}, {4, 5, 6}},
-                        {{7, 8, 9}, {10, 11, 12}}
-};
+                        {{7, 8, 9}, {10, 11, 12}} };
 void setup()
 {
   Serial.begin(9600); //Se inicia el puerto serial
