@@ -41,6 +41,6 @@ void loop()
       }
     }
   }
-  delay(2000); //Retardo de 2 segundos
+  delay(5000); //Retardo de 5 segundos
 }
 ```
